@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Samsung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-40432af69931f93b008fe2621bfbd232b47c97c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-d78685b9e117fe5458fe9e1effc1a36d71dbbcdb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\classes-7f2a69a71ce1d8d8a17cf90a2bcab6e86b169664.jar" />
+    </item>
+    <item
+        jar="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-78921856ab22a9fedb9917d894ac77e28b6fb21e.jar" />
+    </item>
+
+</items>

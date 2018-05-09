@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    
+
+    <com.avocadosoft.lasvegasadvisor.IntEditTextPreference
+        android:defaultValue="30000"
+        android:inputType="number"
+        android:key="@string/prefPollingIntervalKeyName"
+        android:maxLength="10"
+        android:summary="@string/prefPollingIntervalMenuDescription"
+        android:title="@string/prefPollingIntervalMenuTitle" />
+
+    
+    <com.avocadosoft.lasvegasadvisor.IntEditTextPreference
+        android:defaultValue="10"
+        android:inputType="number"
+        android:key="@string/prefPollingDistanceKeyName"
+        android:maxLength="10"
+        android:summary="@string/prefPollingDistanceMenuDescription"
+        android:title="@string/prefPollingDistanceMenuTitle" />
+    
+    <com.avocadosoft.lasvegasadvisor.IntEditTextPreference
+        android:defaultValue="10000"
+        android:inputType="number"
+        android:key="@string/prefPollingExpirationKeyName"
+        android:maxLength="10"
+        android:summary="@string/prefPollingExpirationDescription"
+        android:title="@string/prefPollingExpirationTitle" />
+    
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/prefAlertsActiveKeyName"
+        android:summary="@string/prefAlertsActiveDescription"
+        android:title="@string/prefAlertsActiveTitle" />
+    
+   <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="@string/prefVibrateKeyName"
+        android:summary="@string/prefVibrateDescription"
+        android:title="@string/prefVibrateTitle" />
+    
+        
+        
+
+</PreferenceScreen>

@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menuItemAddLocation"
+        android:alphabeticShortcut="A"
+        android:title="Add Location"
+        android:titleCondensed="Add">
+    </item>
+    <item
+        android:id="@+id/menuItemRemoveLocation"
+        android:title="Remove Location"
+        android:titleCondensed="Remove">
+    </item>
+    <item
+        android:id="@+id/menuiItemSettings"
+        android:icon="@drawable/icon"
+        android:title="@string/menuSettings">
+    </item>
+    <item
+        android:id="@+id/menuItemExit"
+        android:title="Exit"
+        android:titleCondensed="Exit">
+    </item>
+
+</menu><!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/menu/menu.xml -->

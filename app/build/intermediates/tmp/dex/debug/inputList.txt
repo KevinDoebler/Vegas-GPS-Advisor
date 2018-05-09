@@ -1,0 +1,5 @@
+C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\classes\debug
+C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-40432af69931f93b008fe2621bfbd232b47c97c1.jar
+C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-78921856ab22a9fedb9917d894ac77e28b6fb21e.jar
+C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies-d78685b9e117fe5458fe9e1effc1a36d71dbbcdb.jar
+C:\Users\Samsung\Google Drive\New Android Apps\Vegas GPS Advisor\app\build\intermediates\pre-dexed\debug\classes-7f2a69a71ce1d8d8a17cf90a2bcab6e86b169664.jar

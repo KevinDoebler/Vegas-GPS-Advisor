@@ -1,0 +1,27 @@
+KEY FEEANOTIFICATIONS
+
+1)  Should only run while in/near Las Vegas
+    Technical Response:
+
+2)  Non-intrusive alert/notification when you are near LVA deal
+
+3)  Determine how to handle if the user leaves then comes back an hour later. Do we realert?  How about if they leave the alert zone then immediately come back?
+
+4)  Allow filtering notifications by category (gambling/food & drink/entertainment)
+
+
+UI/Search/Whats near me
+
+1)  Keep it simple with material design
+
+2)  Allow filtering by category (gambling/food & drink/entertainment)
+
+
+SETTINGS
+
+1)  Allow user to turn notifications off.
+
+2)  Allow user to adjust notification filters
+
+3)
+

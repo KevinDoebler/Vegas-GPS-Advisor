@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btnClearText"
+    android:background="@color/black"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:ems="10"
+        android:gravity="center_vertical|top"
+        android:inputType="textMultiLine"
+        android:textSize="12sp"
+        >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/btnWhatsNearMe"
+        android:drawableLeft="@drawable/redwifiicon"
+        android:drawablePadding="0dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="50dp"
+        android:textColor="#000000"
+        android:gravity="center"
+        android:layout_width="fill_parent"
+        android:layout_height="74dp"
+        android:onClick="btnWhatsNearMe_onClick"
+
+        android:text="@string/btnTextWhatsNearMe" />
+
+    <Button
+        android:id="@+id/btnClearText"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clear Text" 
+        android:onClick="btnClearText_onClick"
+        />
+    
+    <LinearLayout
+        android:id="@+id/group"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+        
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnResetDatabase"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btnResetDatabase_onClick"
+        android:text="Reset Database" />
+    
+    <Button
+        android:id="@+id/btnRestartListener"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btnRestartListener_onClick"
+        android:text="Restart Listener" />
+    
+    <Button
+        android:id="@+id/btnStopListener"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="btnStopListener_onClick"
+        android:text="Stop Listener" />
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="fill_parent"
+        android:layout_height="109dp"
+        android:text="@string/hello" />
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+
+</LinearLayout><!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/layout/main.xml -->

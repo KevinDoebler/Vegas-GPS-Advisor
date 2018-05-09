@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="Red">#f00</color>
+    <!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="analog_background">#000000</color>
+    <color name="analog_hands">#cccccc</color>
+    <!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="analog_hand_stroke">3dp</dimen>
+    <!-- From: file:/C:/Users/Samsung/Google%20Drive/New%20Android%20Apps/Vegas%20GPS%20Advisor/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="ACCESS_FINE_LOCATION"/>
+    <string name="PROX_ALERT_INTENT">com.avocadosoft.lasvegasadvisor.ProximityIntentReceiver</string>
+    <string name="app_name">GPS Vegas</string>
+    <string name="btnTextWhatsNearMe">Whats near me?</string>
+    <string name="hello">Hello World, gps!</string>
+    <string name="menuSettings">Settings</string>
+    <string name="my_analog_name">My Analog</string>
+    <string name="prefAlertsActiveDescription">When checked, your phone will alert you when a deal is found near you.</string>
+    <string name="prefAlertsActiveKeyName">prefProximityAlertActive</string>
+    <string name="prefAlertsActiveTitle">Alert when a nearby deal is found?</string>
+    <string name="prefPollingDistanceKeyName">prefPollingDistance</string>
+    <string name="prefPollingDistanceMenuDescription">If minDistance is greater than 0, a location will only be broadcasted if the device moves by minDistance meters.</string>
+    <string name="prefPollingDistanceMenuTitle">GPS Polling Distance</string>
+    <string name="prefPollingExpirationDescription">After the number of milliseconds given by the expiration parameter, the location manager will delete this proximity alert and no longer monitor it. A value of -1 indicates that there should be no expiration time.</string>
+    <string name="prefPollingExpirationKeyName">prefProximityAlertExpiration</string>
+    <string name="prefPollingExpirationTitle">Proximity Alert Expiration</string>
+    <string name="prefPollingIntervalKeyName">prefPollingInterval</string>
+    <string name="prefPollingIntervalMenuDescription">If minTime is greater than 0, the LocationManager could potentially rest for minTime milliseconds between location updates to conserve power.</string>
+    <string name="prefPollingIntervalMenuTitle">GPS Polling Interval</string>
+    <string name="prefVibrateDescription">When checked, your phone will vibrate when a deal is found near you.</string>
+    <string name="prefVibrateKeyName">prefProximityAlertVibrate</string>
+    <string name="prefVibrateTitle">Vibrate when a deal is nearby?</string>
+    <string name="preferencesFileName">com.avocadosoft.lasvegasadvisor_preferences</string>
+    <string name="proximityAlertNotificationTitle">Vegas Deal Nearby!</string>
+    <string name="stopButtonTextStarted">Stop GPS Listener</string>
+    <string name="stopButtonTextStopped">Start GPS Listener</string>
+</resources>

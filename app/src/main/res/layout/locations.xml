@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="bottom"
+    android:orientation="vertical" >
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Food" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_toRightOf="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Drink" />
+    
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_toRightOf="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gambling" />
+    
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_toRightOf="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Attractions" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_below="@+id/checkBox1"
+        android:layout_width="fill_parent"
+        android:layout_height="446dp"
+        android:layout_gravity="bottom" >
+
+    </ListView>
+
+</RelativeLayout>
